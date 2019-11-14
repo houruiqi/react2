@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "static/css/main.d498bfb3.chunk.css",
+    "main.js": "static/js/main.e6cb3192.chunk.js",
+    "main.js.map": "static/js/main.e6cb3192.chunk.js.map",
+    "runtime-main.js": "static/js/runtime-main.d10b7575.js",
+    "runtime-main.js.map": "static/js/runtime-main.d10b7575.js.map",
+    "static/css/2.6f60e7f3.chunk.css": "static/css/2.6f60e7f3.chunk.css",
+    "static/js/2.1566bdea.chunk.js": "static/js/2.1566bdea.chunk.js",
+    "static/js/2.1566bdea.chunk.js.map": "static/js/2.1566bdea.chunk.js.map",
+    "index.html": "index.html",
+    "precache-manifest.2cc6432e217edd25f94f306c9bb68384.js": "precache-manifest.2cc6432e217edd25f94f306c9bb68384.js",
+    "service-worker.js": "service-worker.js",
+    "static/css/2.6f60e7f3.chunk.css.map": "static/css/2.6f60e7f3.chunk.css.map",
+    "static/css/main.d498bfb3.chunk.css.map": "static/css/main.d498bfb3.chunk.css.map",
+    "static/media/1.jpg": "static/media/1.e15ee824.jpg",
+    "static/media/4.jpg": "static/media/4.b129054c.jpg",
+    "static/media/住吧首页_05.jpg": "static/media/住吧首页_05.d51e669c.jpg",
+    "static/media/住吧首页_08.jpg": "static/media/住吧首页_08.bae5adc5.jpg",
+    "static/media/住吧首页_11.jpg": "static/media/住吧首页_11.62c7e47d.jpg",
+    "static/media/商城_02.jpg": "static/media/商城_02.1a5c9349.jpg",
+    "static/media/商城_05.jpg": "static/media/商城_05.bc34e57c.jpg",
+    "static/media/商城_07.jpg": "static/media/商城_07.b8930828.jpg",
+    "static/media/灵感_03.jpg": "static/media/灵感_03.ad6781e8.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d10b7575.js",
+    "static/css/2.6f60e7f3.chunk.css",
+    "static/js/2.1566bdea.chunk.js",
+    "static/css/main.d498bfb3.chunk.css",
+    "static/js/main.e6cb3192.chunk.js"
+  ]
+}
